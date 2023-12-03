@@ -16,7 +16,7 @@ jobs:
     if: "!startsWith( github.head_ref, 'renovate/' )"
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Check for version bump
         uses: bachmacintosh/need-npm-package-version-bump@v1
