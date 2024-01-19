@@ -34,7 +34,7 @@
     "@sapphire/discord-utilities": "^3.2.1",
     "@sapphire/duration": "^1.1.1",
     "@sapphire/framework": "4.8.5",
-    "@sapphire/pieces": "^3.10.0",
+    "@sapphire/pieces": "^4.2.2",
     "@sapphire/plugin-api": "^5.2.0",
     "@sapphire/plugin-i18next": "^5.1.1",
     "@sapphire/plugin-logger": "^3.0.7",
