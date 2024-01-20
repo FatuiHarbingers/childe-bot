@@ -832,10 +832,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/plugin-utilities-store@npm:^1.0.3":
-  version: 1.0.3
-  resolution: "@sapphire/plugin-utilities-store@npm:1.0.3"
-  checksum: f318e521ba164151007a6601785e7de8b6647b548fe6305d15ff4f0c853f549dd59d8980b68b2cf29f736b6547469930cf9bf8de494dee1f78b8dbdee1825903
+"@sapphire/plugin-utilities-store@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "@sapphire/plugin-utilities-store@npm:2.0.2"
+  checksum: 61821648bbf16dc261f9e5a062ee62039f28ca115a146c623873070c7605c53378c09e2fd6254c2354a206fe8ed3ea050860e18ec8bc3cdbf4f66a7082edcd38
   languageName: node
   linkType: hard
 
@@ -4182,7 +4182,7 @@ __metadata:
     "@sapphire/plugin-i18next": ^5.1.1
     "@sapphire/plugin-logger": ^3.0.7
     "@sapphire/plugin-scheduled-tasks": ^7.1.2
-    "@sapphire/plugin-utilities-store": ^1.0.3
+    "@sapphire/plugin-utilities-store": ^2.0.2
     "@sapphire/shapeshift": ^3.9.6
     "@sapphire/utilities": ^3.15.3
     "@types/fs-extra": ^11.0.4

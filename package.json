@@ -39,7 +39,7 @@
     "@sapphire/plugin-i18next": "^5.1.1",
     "@sapphire/plugin-logger": "^3.0.7",
     "@sapphire/plugin-scheduled-tasks": "^7.1.2",
-    "@sapphire/plugin-utilities-store": "^1.0.3",
+    "@sapphire/plugin-utilities-store": "^2.0.2",
     "@sapphire/shapeshift": "^3.9.6",
     "@sapphire/utilities": "^3.15.3",
     "bullmq": "^4.17.0",
